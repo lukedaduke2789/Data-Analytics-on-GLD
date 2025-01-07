@@ -1,0 +1,5 @@
+The following libraries are needed to run the .py
+pandas
+matplotlib
+seaborn
+yfinance
